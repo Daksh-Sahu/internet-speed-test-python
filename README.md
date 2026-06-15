@@ -14,6 +14,29 @@ A modern desktop application built with Python that allows users to test their i
 
 ---
 
+## 📑 Table of Contents
+
+* [📌 Overview](#-overview)
+* [✨ Features](#-features)
+
+  * [🌐 Network Information](#-network-information)
+  * [⚡ Internet Speed Testing](#-internet-speed-testing)
+  * [📊 Interactive Visualizations](#-interactive-visualizations)
+  * [📶 Network Quality Metrics](#-network-quality-metrics)
+  * [💾 Save Results](#-save-results)
+* [🖼️ User Interface](#️-user-interface)
+* [📂 Project Structure](#-project-structure)
+* [🛠️ Technologies Used](#️-technologies-used)
+* [📦 Requirements](#-requirements)
+* [▶️ Running the Application](#️-running-the-application)
+* [🔄 How It Works](#-how-it-works)
+* [⚠️ Notes](#️-notes)
+* [🚀 Future Improvements](#-future-improvements)
+* [👨‍💻 Author](#-author)
+* [📜 License](#-license)
+  
+---
+
 ## 📌 Overview
 
 **Internet Speed Test** is a feature-rich desktop application developed using **Python and Tkinter**. It provides users with real-time internet speed testing along with detailed connection information, animated speedometers, and speed history graphs.
