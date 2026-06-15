@@ -266,7 +266,7 @@ If you found this project useful, consider giving it a ⭐ on GitHub!
 
 **Daksh S** <br>
 📧 **Email:** [daksh.s.blr@gmail.com](mailto:daksh.s.blr@gmail.com) <br>
-💼 **LinkedIn:** https://www.linkedin.com/in/Daksh-Sahu -blr2023 
+💼 **LinkedIn:** https://www.linkedin.com/in/Daksh-Sahu-blr2023 
 
 
 
