@@ -263,13 +263,13 @@ Potential enhancements include:
 ## 👨‍💻 Author
 
 Developed with Python to provide a visually engaging and informative internet speed testing experience.
-
 If you found this project useful, consider giving it a ⭐ on GitHub!
+
+**Daksh S**
+📧 **Email:** [daksh.s.blr@gmail.com](mailto:daksh.s.blr@gmail.com)
+
 
 ---
 
 ## 📜 License
-
-This project is released under the MIT License.
-
 Feel free to use, modify, and distribute it for educational and personal purposes.
