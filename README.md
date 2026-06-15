@@ -16,6 +16,7 @@ A modern desktop application built with Python that allows users to test their i
 ## 📑 Table of Contents
 
 * [📌 Overview](#-overview)
+* [📸 Application Preview](#-application-preview)
 * [✨ Features](#-features)
 
   * [🌐 Network Information](#-network-information)
@@ -33,6 +34,7 @@ A modern desktop application built with Python that allows users to test their i
 * [🚀 Future Improvements](#-future-improvements)
 * [👨‍💻 Author](#-author)
 * [📜 License](#-license)
+
   
 ---
 
@@ -53,6 +55,15 @@ Unlike a traditional speed test tool that only displays download and upload spee
 * Historical speed fluctuations
 
 The application combines functionality with an attractive user interface to create a professional speed testing experience.
+
+---
+
+## 📸 Application Preview
+
+<div align="center">
+  <img src="screenshots/app_preview.png" alt="Internet Speed Test Application" width="900"/>
+</div>
+
 
 ---
 
@@ -150,7 +161,10 @@ Internet-Speed-Test/
 ├── speed_test.py
 ├── requirements.txt
 ├── README.md
-│
+├── sample_test_result/
+|   └── InternetSpeedTest_2025-12-25_10-42-35.txt
+├── screenshot/
+|   └── app_preview.png
 └── images/
     ├── background.png
     └── speedometer_bg.png
