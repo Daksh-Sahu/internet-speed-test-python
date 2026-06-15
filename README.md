@@ -147,7 +147,7 @@ The application includes:
 ```text
 Internet-Speed-Test/
 │
-├── main.py
+├── speed_test.py
 ├── requirements.txt
 ├── README.md
 │
@@ -199,7 +199,7 @@ speedtest-cli==2.1.3
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Daksh-Sahu/internet-speed-test-python.git
 ```
 
 Move into the project directory:
@@ -217,7 +217,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python main.py
+python speed_test.py
 ```
 
 ---
