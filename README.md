@@ -262,10 +262,10 @@ Potential enhancements include:
 
 ## 👨‍💻 Author
 
-Developed with Python to provide a visually engaging and informative internet speed testing experience.
+Developed with Python to provide a visually engaging and informative internet speed testing experience. <br>
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
-**Daksh S**
+**Daksh S** <br>
 📧 **Email:** [daksh.s.blr@gmail.com](mailto:daksh.s.blr@gmail.com)
 
 
