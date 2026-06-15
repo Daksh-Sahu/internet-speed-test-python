@@ -61,7 +61,7 @@ The application combines functionality with an attractive user interface to crea
 ## 📸 Application Preview
 
 <div align="center">
-  <img src="screenshots/app_preview.png" alt="Internet Speed Test Application" width="900"/>
+  <img src="screenshot/app_preview.png" alt="Internet Speed Test Application" width="900"/>
 </div>
 
 
