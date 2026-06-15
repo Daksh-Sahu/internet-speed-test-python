@@ -1,0 +1,12 @@
+Client: Bengaluru, IN | 117.215.172.3  AS9829 National Internet Backbone
+Server(s): Bangalore, India | Jio
+Connection Type: Wi-Fi
+IPv4 Address: 192.168.1.4
+IPv6 Address: fe80::da76:f806:8e79:b886
+MAC Address: 84-BA-59-C1-E7-6D
+Test Time: 25-Dec-2025 10:41:37
+Ping: 40.871 ms
+Jitter: 4.45 ms
+Download: 25.59 Mbps
+Upload: 30.39 Mbps
+Signal Strength: Very Good
