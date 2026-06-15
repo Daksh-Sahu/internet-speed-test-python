@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
 ![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A modern desktop application built with Python that allows users to test their internet speed and view detailed network information through an interactive graphical interface.
