@@ -165,6 +165,8 @@ Internet-Speed-Test/
 |   └── InternetSpeedTest_2025-12-25_10-42-35.txt
 ├── screenshot/
 |   └── app_preview.png
+├── reports/
+|   └── report.pdf
 └── images/
     ├── background.png
     └── speedometer_bg.png
