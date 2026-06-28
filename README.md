@@ -28,7 +28,6 @@ A modern desktop application built with Python that allows users to test their i
 * [📂 Project Structure](#-project-structure)
 * [🛠️ Technologies Used](#️-technologies-used)
 * [📦 Requirements](#-requirements)
-* [▶️ Running the Application](#️-running-the-application)
 * [🔄 How It Works](#-how-it-works)
 * [⚠️ Notes](#️-notes)
 * [🚀 Future Improvements](#-future-improvements)
@@ -208,33 +207,6 @@ requests==2.32.5
 speedtest-cli==2.1.3
 ```
 
----
-
-## ▶️ Running the Application
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Daksh-Sahu/internet-speed-test-python.git
-```
-
-Move into the project directory:
-
-```bash
-cd YOUR_REPOSITORY
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-python speed_test.py
-```
 
 ---
 
